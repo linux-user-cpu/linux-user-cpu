@@ -5,6 +5,8 @@ pronouns are he/him
   <img src="https://capsule-render.vercel.app/api?text=linux-and-bsd&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 my current language skills:
-nix
-a bit of cpp
-python 
+nix, 
+a bit of cpp, 
+python, 
+shell, 
+and c
