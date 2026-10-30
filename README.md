@@ -1,5 +1,5 @@
 hey
-just call me lcpu
+just call me Tigran
 pronouns are he/him
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=linux-and-bsd&animation=fadeIn&type=waving&color=gradient&height=100"/>
